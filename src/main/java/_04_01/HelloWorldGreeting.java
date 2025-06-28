@@ -1,6 +1,6 @@
-package _04_01.end;
+package _04_01;
 
-public class HelloWorldGreeting implements Greeting {
+public class HelloWorldGreeting implements _04_01.Greeting {
 
     @Override
     public void printMessage() {

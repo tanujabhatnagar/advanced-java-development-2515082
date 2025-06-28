@@ -1,11 +1,11 @@
-package _04_01.end;
+package _04_01;
 
 public class Main {
 
     public static void main(String[] args) {
-        HelloWorldGreeting helloWorldGreeting = new HelloWorldGreeting();
+        _04_01.HelloWorldGreeting helloWorldGreeting = new _04_01.HelloWorldGreeting();
         helloWorldGreeting.printMessage();
-        GoodMorningGreeting goodMorningGreeting = new GoodMorningGreeting();
+        _04_01.GoodMorningGreeting goodMorningGreeting = new _04_01.GoodMorningGreeting();
         goodMorningGreeting.printMessage();
     }
 

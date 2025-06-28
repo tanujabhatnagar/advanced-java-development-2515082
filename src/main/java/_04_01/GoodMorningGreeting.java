@@ -1,4 +1,6 @@
-package _04_01.end;
+package _04_01;
+
+import _04_01.Greeting;
 
 public class GoodMorningGreeting implements Greeting {
 
